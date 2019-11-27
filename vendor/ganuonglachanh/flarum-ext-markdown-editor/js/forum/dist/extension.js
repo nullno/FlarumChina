@@ -402,7 +402,7 @@ System.register('ganuonglachanh/mdeditor/components/EnhancedTextEditor', ['flaru
         }, {
           key: 'coloro',
           value: function coloro() {
-            this.insertAroundCursor('[color=#e67e22]', '[color]');
+            this.insertAroundCursor('[color=#e67e22]', '[/color]');
           }
 
         }, {
