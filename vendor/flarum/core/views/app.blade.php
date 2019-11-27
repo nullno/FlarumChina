@@ -66,16 +66,6 @@
 
     {!! $foot !!}
     
-    <script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?7f10187d75555a9a9be18e0930baa46a";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
 
-    
   </body>
 </html>
